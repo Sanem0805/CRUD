@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Rdmi Note-10",
+        "description": "The best phone for own price",
+        "qty": 10,
+        "price": 250
+    },
+    {
+        "id": 2,
+        "title": "Rdmi Note-20",
+        "description": "The Flagman phone for own price",
+        "qty": 5,
+        "price": 600
+    },
+    {
+        "id": 3,
+        "title": "Iphone",
+        "description": "Good phone",
+        "qty": 40,
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "title": "Sumsung",
+        "description": "The best phone for own price",
+        "qty": 12,
+        "price": 1000
+    }
+]
